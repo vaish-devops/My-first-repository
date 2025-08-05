@@ -1,0 +1,3 @@
+Name: Vaishnavi J
+Course: BSc Data Science
+Learned: I learned how to commit and manage files using GitHub repository.
